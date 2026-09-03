@@ -161,7 +161,7 @@ Examples include:
 
 # 📷 Dashboard Preview
 
-"C:\Users\Narendra Kumar\OneDrive\Pictures\Screenshots\Zomato-Data-Analysis\Zomato_Dashboard.png"
+![My Photo](profile.jpg)
 
 ---
 
