@@ -161,7 +161,7 @@ Examples include:
 
 # 📷 Dashboard Preview
 
-![My Photo](profile.jpg)
+![My Photo](https://github.com/Narendraparjapat123/Zomato-Data-Analysis/blob/main/Zomato_Dashboard.png?raw=true)
 
 ---
 
